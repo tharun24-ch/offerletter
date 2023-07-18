@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;900&display=swap');
+#offer {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    height: 250%;
+    box-shadow: 5px 5px 5px 5px black;
+}
+
+#offer #name {
+    display: flex;
+    justify-content: space-between;
+}
+
+#offer #name #n1 {
+    font-family: 'Poppins';
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+#offer #name #n1 h1 {
+    color: #0BB5F5;
+}
+
+#offer #name #n2 {
+    margin-right: 70px;
+    margin-top: 30px;
+}
+
+#offer #letter {
+    display: flex;
+    justify-content: space-between;
+}
+
+#offer #letter #l1 {
+    margin-left: 60px;
+    font-family: 'Poppins';
+    color: #0BB5F5;
+}
+
+#offer #letter #l2 {
+    margin-right: 70px;
+    font-family: 'Poppins';
+    font-size: larger;
+    margin-top: 40px;
+}
+
+#offer #letter #l2 h1 {
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+#offer #body {
+    margin-left: 30px;
+    margin-top: 150px;
+    font-family: 'Poppins';
+}
+
+#offer #body #b1 {
+    margin-top: 80px;
+    font-family: 'Poppins';
+    font-size: 30px;
+}
+
+#offer #body #b2 {
+    margin-top: 70px;
+    font-family: 'Poppins';
+    font-size: 30px;
+}
+
+#offer #body #b3 {
+    margin-top: 70px;
+    font-family: 'Poppins';
+    font-size: 30px;
+}
+
+#offer #bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+#offer #bottom #bo1 {
+    margin-left: 30px;
+    margin-top: 100px;
+}
+
+#offer #bottom #bo1 h3 {
+    font-family: 'Poppins';
+    color: #0BB5F5;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+#offer #bottom #bo2 {
+    margin-right: 80px;
+    margin-top: 100px;
+}
+
+#offer a {
+    text-decoration: none;
+    margin-left: 450px;
+    font-size: 25px;
+}
